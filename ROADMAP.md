@@ -6,11 +6,11 @@ Build a web application incrementally, learning modern development and delivery 
 ---
 
 ## Phase 1: Hello World + Git Basics
-**Status: NOT STARTED**
-- [ ] Initialize git repository
-- [ ] Create `.gitignore`
-- [ ] Create `index.html` (simple hello world)
-- [ ] First commit
+**Status: IN PROGRESS**
+- [x] Initialize git repository
+- [x] Create `.gitignore`
+- [x] Create `index.html` (simple hello world)
+- [x] First commit
 - [ ] Practice branching and merging
 
 **Concepts**: git init, staging, commits, branches, merge, git log, .gitignore
@@ -18,10 +18,10 @@ Build a web application incrementally, learning modern development and delivery 
 ---
 
 ## Phase 2: GitHub + Remote Collaboration
-**Status: NOT STARTED**
-- [ ] Create GitHub repository
-- [ ] Connect local repo to remote
-- [ ] Push code to GitHub
+**Status: IN PROGRESS**
+- [x] Create GitHub repository
+- [x] Connect local repo to remote
+- [x] Push code to GitHub
 - [ ] Create a feature branch, make changes, open a PR
 - [ ] Review and merge the PR
 
@@ -120,4 +120,6 @@ Build a web application incrementally, learning modern development and delivery 
 <!-- Add entries as we complete milestones -->
 | Date | Phase | Milestone | Notes |
 |------|-------|-----------|-------|
-| | | | |
+| 2026-03-05 | 1 | Git init, .gitignore, index.html, first commit | Learned staging area, commit workflow |
+| 2026-03-05 | 1 | Added style.css, practiced staging two files | Saw how git tracks new vs modified files differently |
+| 2026-03-05 | 2 | Installed gh CLI, created GitHub repo, pushed | Learned remotes, origin, push, linking local to remote |
